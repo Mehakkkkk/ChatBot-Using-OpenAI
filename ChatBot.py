@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key="  "#enter your openAI API key here to activate this chatbot
+openai.api_key="  " #enter your openAI API key here to activate this chatbot
 
 def chat_with_gpt(prompt):
   
